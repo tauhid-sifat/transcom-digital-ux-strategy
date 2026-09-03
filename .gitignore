@@ -1,0 +1,18 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+.idea/
+*.swp
+*~
+
+# BrowserOS temp (not part of scope)
+BrowserOS/
+.opencode/
+
+# Secrets (never commit)
+.env
+*.pem
+*.key
